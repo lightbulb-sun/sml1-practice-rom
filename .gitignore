@@ -1,0 +1,12 @@
+*.s[0-9]
+*.sav
+*.sn[0-9]
+*.swp
+*.o
+*.bsdiff
+*.ips
+*.sym
+*.gb
+build
+bsdiff
+gfx/out
